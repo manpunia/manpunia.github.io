@@ -15,8 +15,8 @@ theme                  : "minimal-mistakes-jekyll"
 # minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # # Site Settings
-# locale                   : "en-US"
-# title                    : "Site Title"
+locale                   : "en-US"
+title                    : "Site Title"
 # title_separator          : "-"
 # subtitle                 : # site tagline that appears below site title in masthead
 # name                     : "Your Name"
@@ -266,16 +266,16 @@ repository               : pooniaz/pooniaz.github.io # GitHub username/repo-name
 #     envs: development
 
 
-# # Defaults
-# defaults:
-#   # _posts
-#   - scope:
-#       path: ""
-#       type: posts
-#     values:
-#       layout: single
-#       author_profile: true
-#       read_time: true
-#       comments: # true
-#       share: true
-#       related: true
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
