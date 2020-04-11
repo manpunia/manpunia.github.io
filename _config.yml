@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Manish Punia"
-  avatar           : "/assets/images/bio.jpg"
+  avatar           : "bio.jpg"
   bio              : "Just another software developer"
   location         : "Bangalore"
   email            : "mkpunia92@gmail.com"
