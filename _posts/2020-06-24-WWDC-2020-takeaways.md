@@ -14,6 +14,7 @@ Following are things to looks for in detailed sessions.
 5. Swift on server side with vapor framework.
 6. Lot of buzz around swiftUI.
 
+Things didn't go as planned. But there are few points which not mentioned any where in WWDC or API change documents.
 
-##
+Apple had a way to add what kind of document are supported by your application. Add that info into info.plist and your app will appear as 'Copy to app' option for your application. Apple already stopped providing this options in few native apps from iOS 13, In iOS 14 this 'Copy to app' option is not available for any app. Most surprising thing is this is not documented or mentioned in any session. 
 
