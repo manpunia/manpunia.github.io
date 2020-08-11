@@ -4,3 +4,11 @@ I started learing swift. I know its late, still batter than never 🤪. Practici
 
 I started solving problems few days back. I thought of documenting this journey, so I can look back and connect the dots. 
 I will mentioning one algorithm questions and solution of that problem, and my struggle to solution. Swift data structure and API discussion for same problem.
+
+So today's problems is from leetcode 76. Minimum Window Substring:
+Given a string S and a string T, find the minimum window in S which will contain all the characters in T in complexity O(n).
+
+Here is my initial approach
+
+{% gist 08beeb230291a87e32760402dfaa4562 %}
+
