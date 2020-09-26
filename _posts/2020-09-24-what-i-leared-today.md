@@ -53,3 +53,17 @@ GCD continues...
 5. https://medium.com/ios-expert-series-or-interview-series/operation-and-grand-central-dispatch-interview-questions-694da9a069fb
 
 ***
+
+
+***
+##### 25 September 2020
+###### This is a day wasted. Learned nothing or learned something don't remember any thing.Same thing 😁
+
+***
+
+***
+##### 26 September 2020,
+Today is the day where I was tried to do lot of things. But not get done anything. Had some discussion about end to end discussion about platform for something.
+I hope tomorrow will recover today time wasted.
+***
+***
