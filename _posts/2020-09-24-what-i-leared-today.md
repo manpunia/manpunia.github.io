@@ -61,3 +61,22 @@ Today is the day where I was tried to do lot of things. But not get done anythin
 I hope tomorrow will recover today time wasted.
 
 ***
+
+##### 27 September 2020,
+0️⃣ : Not much
+
+***
+
+##### 28 September 2020,
+0️⃣ : Fever
+
+***
+
+##### 28 September 2020,
+###### tech:
+1. https://leetcode.com/problems/backspace-string-compare/
+Frustating! attention span gone for toss, can't even solve easy problems on heat code. I hope tomorrow will be better day.🖖🏾
+
+***
+
+
