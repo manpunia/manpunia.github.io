@@ -75,6 +75,7 @@ I hope tomorrow will recover today time wasted.
 ##### 29 September 2020,
 ###### tech:
 1. https://leetcode.com/problems/backspace-string-compare/
+
 Frustating! attention span gone for toss, can't even solve easy problems on heat code. I hope tomorrow will be better day.🖖🏾
 
 ***
