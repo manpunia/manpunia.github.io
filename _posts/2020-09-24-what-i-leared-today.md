@@ -81,3 +81,15 @@ Frustating! attention span gone for toss, can't even solve easy problems on heat
 ***
 
 
+##### 6th October 2020,
+it is already 6th october, Even can't remember what I am doing from 1-6th. 
+
+Tech: 
+Today completed Docker Essential course on IBM's cognitive classes.
+
+Started reading book: Don't make me think : guide for web usability. Looks interesting.
+
+####### Why consistency is so tough on any thing. I guess from tommorow onwards, leaving all the books aside and I will finish Atomic Habits by James clear.
+
+***
+
