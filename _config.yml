@@ -16,10 +16,10 @@ remote_theme           : "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "अनुनाद"
+title                    : "manish punia"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "अनुनाद"
+name                     : "manish punia:a software developer"
 description              : "Random thought Catalogue"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
