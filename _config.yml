@@ -22,6 +22,7 @@ title: "manish punia"
 description: "internet home for manish punia"
 # baseurl: "/so-simple-theme"
 # url: "https://mmistakes.github.io"
+copyright: "&#127279; 2021 manishpunia.com"
 logo: "bio.jpg"
 date_format: "%B %-d, %Y"
 read_time: true
