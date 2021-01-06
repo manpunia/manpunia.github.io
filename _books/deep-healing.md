@@ -1,7 +1,6 @@
 ---
 title: "Deep Healing: The Essence of Mind/Body Medicine"
 image: 
-  path: /images/depp-healing.png
   thumbnail: /images/depp-healing.png
   caption: "Deep-Healing"
 ---
