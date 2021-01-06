@@ -100,8 +100,8 @@ defaults:
       share: true
   # Recipe defaults
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_books"
+      type: books
     values:
       layout: post
       comments: true
