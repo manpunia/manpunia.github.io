@@ -1,13 +1,13 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Sushila Borayan:
+  name: Sushila Borayan
+  picture: /images/
+  twitter: "@sushilaborayan"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/sushilaborayan
       icon: fab fa-twitter-square
 
 Cornelius Fiddlebone:
