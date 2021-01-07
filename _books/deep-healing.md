@@ -1,5 +1,6 @@
 ---
 title: "Deep Healing: The Essence of Mind/Body Medicine"
+author: sushila
 image: 
   thumbnail: /images/depp-healing.png
 ---
