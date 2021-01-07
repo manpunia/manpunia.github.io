@@ -37,8 +37,8 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 google_analytics: "A-131327631-1"
-disqus:
-  shortname: "manishpunia-com"
+# disqus:
+#   shortname: "manishpunia-com"
 twitter:
   username: "manpunia"
 # google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
@@ -98,7 +98,7 @@ defaults:
     values:
       layout: post
       comments: true
-      share: true
+      share: false
   # Recipe defaults
   - scope:
       path: "_books"
@@ -106,7 +106,7 @@ defaults:
     values:
       layout: post
       comments: true
-      share: true
+      share: false
 
 # Site Author
 author:
