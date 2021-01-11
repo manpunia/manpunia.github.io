@@ -11,6 +11,15 @@ tags:
 Here idea is to listing learning everyday. most of these will be related to tech, mostly these will be links to readings. it is possible later poin of time those are dead link.
 This will serve to track learnings.
 
+Oh this was in reverse order, didn't tracked in long time will start tracking again.
+
+***
+
+##### 11 Jan 2021
+
+
+
+
 ***
 
 ##### 21 September 2020
@@ -35,7 +44,7 @@ Today's topic is communication pattern in iOS.
 ##### 23 September 2020
 ###### Tech:
 Today's topic is concurrency in iOS. Actually it is broader topic so much to read. Could not complete it today.I hope I will able to finish it tomorrow.Added additional reading sources in advance for tomorrow.
-1. https://developer.apple.com/library/archive/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008091-CH1-SW1
+https://developer.apple.com/library/archive/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008091-CH1-SW1
 
 ***
 ##### 24 September 2020
