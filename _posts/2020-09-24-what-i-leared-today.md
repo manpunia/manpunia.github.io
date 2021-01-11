@@ -1,6 +1,6 @@
 ---
 title: "What I learned today"
-layout: single
+layout: post
 classes:
   - dark-theme
 categories:
