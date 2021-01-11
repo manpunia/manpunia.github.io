@@ -1,8 +1,5 @@
 ---
 title: "What I learned today"
-layout: post
-classes:
-  - dark-theme
 categories:
   - learning
 tags:
