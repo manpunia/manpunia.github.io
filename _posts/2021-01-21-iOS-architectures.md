@@ -1,5 +1,5 @@
 ---
-title: "iOS Architecture"
+title: "iOS App Architecture"
 categories:
   - iOS
 tags:
