@@ -5,7 +5,7 @@ categories:
 tags:
   - learning, Design Patterns, iOS Architectures
 ---
-From last one week I have been reading about iOS design patterns and architecture patterns. This is summary posy of my understanding.
+From last one week I have been reading about iOS design patterns and architecture patterns. This is summary post of my understanding.
 
 There is lot of articles and books around this topic. Here is listed of patterns I have read about.
 
