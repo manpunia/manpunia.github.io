@@ -14,6 +14,7 @@ There is lot of articles and books around this topic. Here is listed of patterns
 3. VIPER
 
 ### MVC (Model View Controller)
+-----
 This is common and easy to implement. This is being followed in many iOS frameworks, and recommended by Apple. In this, whole code is categoriesed in three categories.
 
 Following image displayes how this component communicates:
@@ -43,7 +44,7 @@ As name suggest this part is responsible for displaying info on UI. It may be su
   - View inrecating with model
   - Contains any business logic
   - Trying to do anything, that is not related to UI?
-##### 3. Contoller
+##### 3.Contoller
 This is least usable part, this contains communication between model and view. It holds following resposibilities:
 - What should I access first: presistance or network?
 - How often I shoulld refresh the app?
@@ -60,9 +61,9 @@ This is least usable part, this contains communication between model and view. I
 - View and controller are tightly coupled.(that makes them hard to test)
 - If not careful, it may lead to massive view controller. When everything is dumped in view controller
 - View Depends on two model and controller.
-----------
-### Model-View-ViewModel
 
+### Model-View-ViewModel
+-----
 This pattern tries to solve massive view controller issue, without adding much abstractions. Add logic related to processing model is moved from controller to View-Model.Following images explains interaction between these controllers:
 ![Model-View-Model](/images/mvvm.png)
 
@@ -70,9 +71,8 @@ MVVM pattern is used when model need additional processing before displying info
 
 This pattern solves problem of modularity without much abstraction, which makes very populor design pattern in iOS (second, of course after MVC). Binding and reactive takes these pattern to next level.
 
----------------------
-
 ### VIPER
+-----
 VIPER an application of Clean Architecture (Remember uncle Bob) in iOS. This pattern is breaks whole architecture to multiple components. VIPER's intials stands for View, Intector, Presentor, Entity, Router. Project is structured based on responsiblities. Each layer have own boundary and responsiblity.
 
 Here is interaction sketch:
