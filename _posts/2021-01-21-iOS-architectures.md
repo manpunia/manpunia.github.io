@@ -19,7 +19,7 @@ There is lot of articles and books around this topic. Here is listed of patterns
 This is common and easy to implement. This is being followed in many iOS frameworks, and recommended by Apple. In this, whole code is categoriesed in three categories.
 
 Following image displayes how this component communicates:
-![Model-View-Controller](../images/mvc.png)
+![Model-View-Controller](/images/mvc.png)
 
 ##### 1. Model:
 In this categoy,involves all the data related logic. That may involve data fetching from web, processing data and updlaoding data. Model may be one class or more than one class. Model may be communicating multiple utils and managers for perform all the data fetching and processing.
@@ -66,7 +66,7 @@ This is least usable part, this contains communication between model and view. I
 ### Model-View-ViewModel
 
 This pattern tries to solve massive view controller issue, without adding much abstractions. Add logic related to processing model is moved from controller to View-Model.Following images explains interaction between these controllers:
-![Model-View-Model](../images/mvvm.png)
+![Model-View-Model](/images/mvvm.png)
 
 MVVM pattern is used when model need additional processing before displying info to UI. Not all the cases are fit to MVVM. But in most of cases it make things easier to test when it separate all the UI independent code to model and view-model. Which make both these parts testable. 
 
@@ -76,7 +76,7 @@ This pattern solves problem of modularity without much abstraction, which makes 
 VIPER an application of Clean Architecture (Remember uncle Bob) in iOS. This pattern is breaks whole architecture to multiple components. VIPER's intials stands for View, Intector, Presentor, Entity, Router. Project is structured based on responsiblities. Each layer have own boundary and responsiblity.
 
 Here is interaction sketch:
-![VIPER](../images/viper.jpg)
+![VIPER](/images/viper.jpg)
 
 Role of all the components:
   - **View** : Displays whatever info need to displyed told by *Presenter*, and sends back user actions to presenter.
