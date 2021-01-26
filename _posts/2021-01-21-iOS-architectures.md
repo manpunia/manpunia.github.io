@@ -5,7 +5,7 @@ categories:
 tags:
   - learning, Design Patterns, iOS Architectures
 ---
-#iOS Architectures and Design Patterns
+# iOS Architectures and Design Patterns
 
 From last one week I have been reading about iOS design patterns and architecture patterns. This is summary posy of my understanding.
 
@@ -21,7 +21,7 @@ This is common and easy to implement. This is being followed in many iOS framewo
 Following image displayes how this component communicates:
 ![Model-View-Controller](images/mvc.png)
 
-#####1. Model:
+##### 1. Model:
 In this categoy,involves all the data related logic. That may involve data fetching from web, processing data and updlaoding data. Model may be one class or more than one class. Model may be communicating multiple utils and managers for perform all the data fetching and processing.
 All the Categories which will be part of model:
    - Network code
@@ -34,7 +34,7 @@ All the Categories which will be part of model:
    - Extensions   
 This is not suppoesed to contain any logic related to UI.This is most reusable part independent of UI code.
 
-#####2.View 
+##### 2.View 
 As name suggest this part is responsible for displaying info on UI. It may be subclasses of UIKit classe or storyboard or Xib. Sometime controllers containse view part for example: UITableViewController. View are supposed to be free of business logic and reusable in other places in app.
     View may contain following
     - UIView Subclasses
@@ -45,7 +45,7 @@ As name suggest this part is responsible for displaying info on UI. It may be su
   - View inrecating with model
   - Contains any business logic
   - Trying to do anything, that is not related to UI?
-#####3. Contoller
+##### 3. Contoller
 This is least usable part, this contains communication between model and view. It holds following resposibilities:
 - What should I access first: presistance or network?
 - How often I shoulld refresh the app?
