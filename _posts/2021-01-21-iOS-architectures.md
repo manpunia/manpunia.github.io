@@ -72,7 +72,7 @@ MVVM pattern is used when model need additional processing before displying info
 
 This pattern solves problem of modularity without much abstraction, which makes very populor design pattern in iOS (second, of course after MVC). Binding and reactive takes these pattern to next level.
 
-##### VIPER
+### VIPER
 VIPER an application of Clean Architecture (Remember uncle Bob) in iOS. This pattern is breaks whole architecture to multiple components. VIPER's intials stands for View, Intector, Presentor, Entity, Router. Project is structured based on responsiblities. Each layer have own boundary and responsiblity.
 
 Here is interaction sketch:
