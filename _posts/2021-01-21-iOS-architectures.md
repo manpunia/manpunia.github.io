@@ -1,11 +1,11 @@
 ---
-title: "iOS Architectures and Design Patterns"
+title: "iOS Architecture"
 categories:
   - iOS
 tags:
   - learning, Design Patterns, iOS Architectures
 ---
-# iOS Architectures and Design Patterns
+# iOS App Architecture
 
 From last one week I have been reading about iOS design patterns and architecture patterns. This is summary posy of my understanding.
 
