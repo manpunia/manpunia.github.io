@@ -8,7 +8,6 @@ tags:
   - fiction
   - couple reading
   - 2021
-  - 4-star
 ---
 
 ⭐️⭐️⭐️⭐️
