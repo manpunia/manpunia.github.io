@@ -3,7 +3,12 @@ title: "सारा आसमान"
 categories:
   - books
 tags:
-  - reading, hindi, fiction, couple reading, 2021
+  - reading
+  - hindi
+  - fiction
+  - couple reading
+  - 2021
+  - 4-star
 ---
 
 ⭐️⭐️⭐️⭐️
