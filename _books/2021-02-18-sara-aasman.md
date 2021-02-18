@@ -6,8 +6,7 @@ tags:
   - reading
   - hindi
   - fiction
-  - couple reading
-  - 2021
+  - couple
 ---
 
 ⭐️⭐️⭐️⭐️
