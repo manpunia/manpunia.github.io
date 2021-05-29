@@ -7,9 +7,6 @@ tags:
   - hindi
   - fiction
   - couple
-
-image: 
-  thumbnail: /images/aasman.png
 ---
 
 ⭐️⭐️⭐️⭐️
