@@ -8,6 +8,8 @@ Giving good rating to this book is same as liking a tweet which informs about tr
 
 This book is about author's struggle with her childhood truama, which caused physical illness and depression to her. How she battled with it.
 
+![image info](/images/all-head.jpg)
+
 There are lot of points to take away from this book. I was particularly picked two points. 
 
 1. How we inherite behavoiur from our parents unknowngly (specially, you are not aware and resisting those behavior). I am sure if everybody look into there behavior they 
