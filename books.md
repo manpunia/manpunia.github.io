@@ -6,4 +6,4 @@ collection: books
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_books`.
+Summary/Review/Notes of books.
