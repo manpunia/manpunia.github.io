@@ -4,7 +4,7 @@ title: "Emergency ki inside story"
 
 ✩✩✩✩✩
 
-Emergency ki inside story by Kuldeep nair
+Emergency ki inside story by Kuldeep nayar
 
 this is detailed account of dark period of independent india, which india's people need to suffer because of power hungury and insecure mother and son politician.
 
