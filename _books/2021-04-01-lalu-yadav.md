@@ -8,5 +8,5 @@ this book looks like self promotion, where lalu mentions how he was connected to
 
 this whole book is like one side story, which sounds too good to true specially due to condition of bihar state after lalu's rule. despite that no denial he covered long journey from small town to center politics. 
 
-This book need other side of story or confirmation from somebidy reliable, otherwise it is hard to belive, looks like image cleaning book.
+This book need other side of story or confirmation from somebody reliable, otherwise it is hard to belive, looks like image cleaning book.
 
