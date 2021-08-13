@@ -6,4 +6,4 @@ collection: books
 entries_layout: grid
 ---
 
-Summary/Review/Notes of books.
+484 Bookclub
