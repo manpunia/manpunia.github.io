@@ -1,5 +1,5 @@
 ---
-title: "jsut for formality"
+title: "just for formality"
 categories:
   - Life
 tags:
