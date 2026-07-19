@@ -2,6 +2,10 @@
 
 - title: Home
   url: /
+- title: Profile
+  url: /profile/
+- title: About
+  url: /about/
 - title: Posts
   url: /posts/
 - title: Categories

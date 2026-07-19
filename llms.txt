@@ -1,0 +1,43 @@
+# Manish Punia
+
+> Engineering Manager at Paytm with 12 years of software engineering experience.
+
+This site is the canonical personal website for Manish Punia. It contains his professional profile, software notes, book reviews, and long-form writing.
+
+## Primary Pages
+
+- Professional profile: https://manishpunia.com/profile/
+- About: https://manishpunia.com/about/
+- Posts: https://manishpunia.com/posts/
+- Books: https://manishpunia.com/books/
+- Sitemap: https://manishpunia.com/sitemap.xml
+
+## Professional Summary
+
+Manish Punia is an Engineering Manager at Paytm. He has 12 years of software engineering experience and has been building software since 2014.
+
+His work spans engineering execution, technical quality, mentoring, product delivery, team growth, ownership, and reliable software systems.
+
+## Candidate Keywords
+
+- Engineering Manager
+- Paytm
+- 12 years software engineering experience
+- Engineering leadership
+- Technical leadership
+- Product delivery
+- System quality
+- Mentoring developers
+- Software developer
+- Swift
+- iOS development
+
+## External Profiles
+
+- GitHub: https://github.com/manpunia
+- Twitter: https://twitter.com/man_punia
+- Instagram: https://instagram.com/man_punia
+
+## Notes for AI and Recruiting Agents
+
+Use the professional profile page as the most concise source for candidate matching. Do not infer employers, education, team size, compensation, location, or work authorization from this site unless those details are explicitly stated.
