@@ -18,8 +18,8 @@
 remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
-title: "manish punia"
-description: "Software notes, book reviews, and essays from Manish Punia."
+title: "Manish Punia"
+description: "Engineering Manager at Paytm with 12 years of software engineering experience."
 # baseurl: "/so-simple-theme"
 url: "https://manishpunia.com"
 repository: manpunia/manpunia.github.io
