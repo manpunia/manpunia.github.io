@@ -6,3 +6,16 @@ sitemap: false
 @charset "utf-8";
 
 @import "so-simple";
+
+.home-intro {
+  margin-bottom: 3rem;
+}
+
+.home-intro p:last-child {
+  margin-bottom: 0;
+}
+
+.layout--home .page-content > h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
