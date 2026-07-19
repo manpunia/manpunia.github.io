@@ -7,14 +7,10 @@ sitemap: false
 
 @import "so-simple";
 
-.home-intro {
-  margin-bottom: 4rem;
-  padding-bottom: 2.5rem;
-  border-bottom: 1px solid #ccc;
-}
-
-.home-intro p:last-child {
-  margin-bottom: 0;
+.layout--home .page-content > hr {
+  margin: 3.5rem 0 2.5rem;
+  border: 0;
+  border-top: 1px solid #ccc;
 }
 
 .layout--home .page-content > h2 {
