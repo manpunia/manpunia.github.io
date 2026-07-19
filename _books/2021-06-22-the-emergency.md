@@ -2,7 +2,7 @@
 title: "Emergency ki inside story"
 ---
 
-✩✩✩✩✩
+**Rating:** ★★★★★ (5/5)
 
 Emergency ki inside story by Kuldeep nayar
 

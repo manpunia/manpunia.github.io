@@ -4,7 +4,7 @@ redirect_from:
   - /books/2021-06-21-tounge-in-cheek/
 ---
 
-⭐️
+**Rating:** ★☆☆☆☆ (1/5)
 
 This book looks like you have some story that is funny in your head, but humor and funny side are lost while telling and explaining the story. humor is lost or it was not there at all. not fun for me at least, again humor and fun are subjective to the individual.
 

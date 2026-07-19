@@ -2,7 +2,7 @@
 title: "It's All in Your Head, M"
 ---
 
-⭐️⭐️⭐️⭐️
+**Rating:** ★★★★☆ (4/5)
 
 Giving good rating to this book is same as liking a tweet which informs about tragedy or unfortunate event. You don't want to convey that you like that tragedy.
 
