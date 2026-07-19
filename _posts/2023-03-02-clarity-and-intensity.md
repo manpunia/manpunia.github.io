@@ -1,9 +1,11 @@
 ---
-title: "clarity and intensity"
+title: "Clarity and Intensity"
 categories:
   - Life
 tags:
   - Life, Thoughts
+redirect_from:
+  - /life/calrity-and-intensity/
 ---
 
 staring about yesterday's challenge about no complains. it is very hard, verbally i might have not complained but i caught my mind complaining a lot of time. but that challenge reminded to calm down and stop complaining. certainly learned behavior in long time, can't be undone in a day. 

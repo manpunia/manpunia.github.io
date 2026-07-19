@@ -1,16 +1,11 @@
-# Sample Authors
-# Remove file or replace with your own
-
-sushila:
-  name: Sushila Borayan
-  picture: /images/s-dp.jpg
-  twitter: "@sushilaborayan"
+manish:
+  name: Manish Punia
+  picture: /bio.jpg
+  twitter: "@man_punia"
   links:
     - title: Twitter
-      url: https://twitter.com/sushilaborayan
+      url: https://twitter.com/man_punia
       icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+    - title: GitHub
+      url: https://github.com/manpunia
+      icon: fab fa-github-square
