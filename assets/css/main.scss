@@ -8,7 +8,9 @@ sitemap: false
 @import "so-simple";
 
 .home-intro {
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid #ccc;
 }
 
 .home-intro p:last-child {
@@ -17,5 +19,5 @@ sitemap: false
 
 .layout--home .page-content > h2 {
   margin-top: 0;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
 }
