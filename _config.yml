@@ -37,6 +37,10 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+  - name: "Inter"
+    weights: "400,700"
+  - name: "Roboto Mono"
+    weights: "400,700"
 # google_analytics: "UA-131327631-1"
 # disqus:
 #   shortname: "manishpunia-com"

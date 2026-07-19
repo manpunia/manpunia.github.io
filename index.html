@@ -3,103 +3,72 @@ layout: page
 excerpt: "Manish Punia is an Engineering Manager at Paytm with 12 years of software engineering experience."
 ---
 
-<div class="portfolio-home">
-  <section class="portfolio-hero" aria-labelledby="portfolio-title">
-    <figure class="portfolio-portrait">
-      <img src="{{ '/bio.jpg' | relative_url }}" alt="Portrait of Manish Punia" width="511" height="512" fetchpriority="high">
-    </figure>
-    <p class="portfolio-kicker">Engineering Manager · Paytm</p>
-    <h1 id="portfolio-title">Manish Punia</h1>
-    <p class="portfolio-hero__statement">I build reliable engineering teams, systems, and product delivery.</p>
-    <p class="portfolio-hero__summary">Over 12 years in software engineering, I have grown from hands-on development into engineering leadership. My work now sits at the intersection of execution, technical quality, mentoring, and product outcomes.</p>
+<div class="lifelog-home">
+  <a class="lifelog-terminal" href="#profile" aria-label="Go to Manish Punia's profile">
+    <span>&gt; Hello</span>
+    <span>&gt; My name is Manish</span>
+    <span>&gt; I build software and engineering teams <i class="lifelog-cursor" aria-hidden="true"></i></span>
+  </a>
 
-    <dl class="portfolio-facts" aria-label="Professional overview">
-      <div>
-        <dt>Experience</dt>
-        <dd>12 years</dd>
-      </div>
-      <div>
-        <dt>Current role</dt>
-        <dd>Engineering Manager</dd>
-      </div>
-      <div>
-        <dt>Company</dt>
-        <dd>Paytm</dd>
-      </div>
-      <div>
-        <dt>Connect</dt>
-        <dd><a href="https://www.linkedin.com/in/manish-punia/" rel="me">LinkedIn</a> <span aria-hidden="true">·</span> <a href="{{ '/resume.pdf' | relative_url }}">Résumé</a></dd>
-      </div>
-    </dl>
-  </section>
+  <div class="lifelog-content">
+    <section id="profile" aria-labelledby="profile-title">
+      <h1 id="profile-title">Manish Punia</h1>
 
-  <section class="portfolio-section" id="experience" aria-labelledby="experience-title">
-    <div class="portfolio-section__heading">
-      <p class="portfolio-section__number">01</p>
+      <div class="lifelog-profile">
+        <img src="{{ '/bio.jpg' | relative_url }}" alt="Portrait of Manish Punia" width="511" height="512" fetchpriority="high">
+        <p>I am an Engineering Manager at Paytm with 12 years of experience building production software, leading engineering execution, and growing teams.</p>
+      </div>
+
+      <div class="lifelog-entries" aria-label="Professional links">
+        <p>
+          <a class="lifelog-highlight" href="#experience">Engineering leadership and experience</a>
+          <span class="lifelog-meta">PAYTM / 12 YEARS IN SOFTWARE ENGINEERING</span>
+        </p>
+        <p>
+          <a class="lifelog-highlight" href="{{ '/resume.pdf' | relative_url }}" data-resume-download>Download my resume</a>
+          <span class="lifelog-meta">PDF / CAREER OVERVIEW</span>
+        </p>
+        <p>
+          <a class="lifelog-highlight" href="https://www.linkedin.com/in/manish-punia/" rel="me">Connect with me on LinkedIn</a>
+          <span class="lifelog-meta">PROFESSIONAL PROFILE</span>
+        </p>
+      </div>
+    </section>
+
+    <section id="experience" class="lifelog-section" aria-labelledby="experience-title">
       <h2 id="experience-title">Experience</h2>
-    </div>
+      <div class="lifelog-entries">
+        <p>
+          <span class="lifelog-highlight lifelog-highlight--text">Engineering Manager at Paytm</span>
+          <span class="lifelog-meta">CURRENT</span>
+          <span class="lifelog-description">I lead engineering execution across product delivery, system quality, clear ownership, and team growth.</span>
+        </p>
+        <p>
+          <span class="lifelog-highlight lifelog-highlight--text">Software Engineering</span>
+          <span class="lifelog-meta">SINCE 2014</span>
+          <span class="lifelog-description">My hands-on foundation includes production iOS and Swift development and continues to guide my technical decisions.</span>
+        </p>
+      </div>
+    </section>
 
-    <div class="experience-list">
-      <article class="experience-item">
-        <p class="experience-item__meta">Current · Paytm</p>
-        <h3>Engineering Manager</h3>
-        <p>Leading engineering execution while keeping product delivery, system quality, team growth, and clear ownership connected.</p>
-      </article>
-      <article class="experience-item">
-        <p class="experience-item__meta">Since 2014</p>
-        <h3>Software Engineering</h3>
-        <p>A hands-on foundation in building production software, including iOS and Swift, that continues to inform technical decisions and engineering leadership.</p>
-      </article>
-    </div>
-  </section>
-
-  <section class="portfolio-section" aria-labelledby="approach-title">
-    <div class="portfolio-section__heading">
-      <p class="portfolio-section__number">02</p>
-      <h2 id="approach-title">How I Lead</h2>
-    </div>
-
-    <div class="leadership-list">
-      <article>
-        <p class="leadership-list__index">A</p>
-        <h3>Clear ownership</h3>
-        <p>Give teams the context and accountability required to make sound decisions.</p>
-      </article>
-      <article>
-        <p class="leadership-list__index">B</p>
-        <h3>Visible quality</h3>
-        <p>Keep reliability, thoughtful reviews, and technical health part of everyday delivery.</p>
-      </article>
-      <article>
-        <p class="leadership-list__index">C</p>
-        <h3>Meaningful growth</h3>
-        <p>Mentor engineers through useful feedback, increasing responsibility, and purposeful work.</p>
-      </article>
-    </div>
-  </section>
-
-  <section class="portfolio-section portfolio-writing" id="writing" aria-labelledby="writing-title">
-    <div class="portfolio-section__heading">
-      <p class="portfolio-section__number">03</p>
-      <h2 id="writing-title">Recent Writing</h2>
-    </div>
-
-    <div class="portfolio-writing__content">
-      <div class="writing-list">
-        {% for post in site.posts limit: 4 %}
-          <article class="writing-item">
-            <a href="{{ post.url | relative_url }}">
-              <span>
-                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
-                <strong>{{ post.title }}</strong>
-              </span>
-              <span class="writing-item__arrow" aria-hidden="true">&#8599;</span>
-            </a>
-          </article>
+    <section id="writing" class="lifelog-section" aria-labelledby="writing-title">
+      <h2 id="writing-title">Thoughts</h2>
+      <div class="lifelog-entries">
+        {% for post in site.posts limit: 6 %}
+          <p>
+            <a class="lifelog-highlight" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <time class="lifelog-meta" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %b %Y" | upcase }}</time>
+          </p>
         {% endfor %}
       </div>
+    </section>
 
-      <p class="portfolio-writing__more"><a href="{{ '/posts/' | relative_url }}">Browse all writing <span aria-hidden="true">&#8594;</span></a></p>
-    </div>
-  </section>
+    <footer class="lifelog-footer">
+      <a href="{{ '/posts/' | relative_url }}">WRITING</a>
+      <span aria-hidden="true">×</span>
+      <a href="https://github.com/manpunia" rel="me">GITHUB</a>
+      <span aria-hidden="true">×</span>
+      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+    </footer>
+  </div>
 </div>
