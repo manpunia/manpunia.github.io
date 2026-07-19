@@ -15,4 +15,4 @@ I care about clear communication, reliable systems, thoughtful code reviews, str
 
 Outside work, I like to read non-fiction, biographies, real-life accounts, and the occasional technical book. I use this site for software notes, book reviews, and thoughts that deserve a little more space than a social post.
 
-Happy to help or chat; say hi on [Twitter](https://twitter.com/man_punia).
+You can [view my résumé](/resume.pdf), connect with me on [LinkedIn](https://www.linkedin.com/in/manish-punia/), or say hi on [Twitter](https://twitter.com/man_punia).

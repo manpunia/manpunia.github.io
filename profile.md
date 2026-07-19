@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Profile
+title: Experience
 permalink: /profile/
 excerpt: "Professional profile of Manish Punia, Engineering Manager at Paytm with 12 years of software engineering experience."
 ---
@@ -29,5 +29,7 @@ Engineering Manager, Paytm, software engineering, engineering leadership, techni
 ## Canonical Links
 
 - Website: [manishpunia.com](https://manishpunia.com/)
+- Résumé: [View résumé](/resume.pdf)
+- LinkedIn: [linkedin.com/in/manish-punia](https://www.linkedin.com/in/manish-punia/)
 - GitHub: [github.com/manpunia](https://github.com/manpunia)
 - Twitter: [twitter.com/man_punia](https://twitter.com/man_punia)
