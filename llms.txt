@@ -7,6 +7,7 @@ This site is the canonical personal website for Manish Punia. It contains his pr
 ## Primary Pages
 
 - Professional profile: https://manishpunia.com/profile/
+- Resume: https://manishpunia.com/resume.pdf
 - About: https://manishpunia.com/about/
 - Posts: https://manishpunia.com/posts/
 - Books: https://manishpunia.com/books/
@@ -34,6 +35,7 @@ His work spans engineering execution, technical quality, mentoring, product deli
 
 ## External Profiles
 
+- LinkedIn: https://www.linkedin.com/in/manish-punia/
 - GitHub: https://github.com/manpunia
 - Twitter: https://twitter.com/man_punia
 - Instagram: https://instagram.com/man_punia
