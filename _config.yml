@@ -19,10 +19,11 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
 title: "manish punia"
-description: "internet home for manish punia"
+description: "Software notes, book reviews, and essays from Manish Punia."
 # baseurl: "/so-simple-theme"
-# url: "https://mmistakes.github.io"
-copyright: "© 2021 manishpunia.com"
+url: "https://manishpunia.com"
+repository: manpunia/manpunia.github.io
+copyright: "© 2026 manishpunia.com"
 logo: "bio.jpg"
 date_format: "%B %-d, %Y"
 read_time: true
@@ -40,7 +41,7 @@ google_fonts:
 # disqus:
 #   shortname: "manishpunia-com"
 twitter:
-  username: "manpunia"
+  username: "man_punia"
 # google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
 
 # Liquid
@@ -75,6 +76,12 @@ tag_archive_path: "/tags/#"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .bundle/
+  - vendor/
 
 plugins:
   - jekyll-seo-tag
@@ -122,7 +129,7 @@ author:
       url: https://instagram.com/man_punia
       icon: fab fa-instagram
     - title: GitHub
-      url: https://github.com/pooniaz
+      url: https://github.com/manpunia
       icon: fab fa-github-square
 
 # Footer Links
@@ -134,7 +141,7 @@ footer_links:
     url: https://instagram.com/man_punia
     icon: fab fa-instagram
   - title: GitHub
-    url: https://github.com/pooniaz
+    url: https://github.com/manpunia
     icon: fab fa-github-square
   - title: Feed
     url: atom.xml

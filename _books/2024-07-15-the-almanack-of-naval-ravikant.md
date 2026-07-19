@@ -1,11 +1,13 @@
 ---
-title: "the alamanack of naval ravikant"
+title: "The Almanack of Naval Ravikant"
 categories:
   - books
 tags:
   - reading
   - non-fiction
   - psychology
+redirect_from:
+  - /books/2024-07-15-the-almanak-of-naval-ravikant/
 ---
 
 reviewing book after a long time, from last sometime books were being read in smaller parts here and there. until i used to finish the book, used to get forget the starting. and not felt like writing down the review. 
