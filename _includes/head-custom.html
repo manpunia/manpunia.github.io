@@ -7,3 +7,51 @@
 
     gtag('config', 'G-RJ8EDDSGQ3');
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ site.url }}/#person",
+  "url": "{{ site.url }}/",
+  "name": "Manish Punia",
+  "jobTitle": "Engineering Manager",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Paytm",
+    "url": "https://paytm.com/"
+  },
+  "description": "Engineering Manager at Paytm with 12 years of software engineering experience.",
+  "image": "{{ site.url }}/bio.jpg",
+  "sameAs": [
+    "https://twitter.com/man_punia",
+    "https://github.com/manpunia",
+    "https://instagram.com/man_punia"
+  ],
+  "knowsAbout": [
+    "Engineering management",
+    "Software engineering",
+    "Engineering execution",
+    "Product delivery",
+    "System quality",
+    "Mentoring developers",
+    "Technical leadership",
+    "iOS development",
+    "Swift"
+  ]
+}
+</script>
+
+{% if page.url == "/" or page.url == "/about/" or page.url == "/profile/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": "{{ site.url }}{{ page.url }}#profile-page",
+  "url": "{{ site.url }}{{ page.url }}",
+  "mainEntity": {
+    "@id": "{{ site.url }}/#person"
+  }
+}
+</script>
+{% endif %}
