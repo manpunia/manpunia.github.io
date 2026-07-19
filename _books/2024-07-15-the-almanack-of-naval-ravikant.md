@@ -10,6 +10,8 @@ redirect_from:
   - /books/2024-07-15-the-almanak-of-naval-ravikant/
 ---
 
+**Rating:** ☆☆☆☆☆ (Not rated)
+
 reviewing book after a long time, from last sometime books were being read in smaller parts here and there. until i used to finish the book, used to get forget the starting. and not felt like writing down the review. 
 
 Why I started this book:

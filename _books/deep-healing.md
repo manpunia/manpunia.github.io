@@ -2,7 +2,7 @@
 title: "Deep Healing: The Essence of Mind/Body Medicine"
 ---
 
-⭐️⭐️⭐️⭐️⭐️
+**Rating:** ★★★★★ (5/5)
 
 I got reference of this book from book "Warrior pose by Bhava ram". Bhava ram mentioned when nothing helped him how the audio tapes from dr miller, helped him to heal from cancer and back injury.
 

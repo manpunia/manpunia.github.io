@@ -8,7 +8,7 @@ tags:
   - psychology
 ---
 
-Rating: ✰✰✰✰✰(5/5)
+**Rating:** ★★★★★ (5/5)
 
 Morgan's writing is very interesting. His attention to detail is very planned. You will clearly be able to notice how the background is prepared before delivering the message.
 
