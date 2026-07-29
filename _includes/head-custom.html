@@ -7,16 +7,6 @@
 
     gtag('config', 'G-RJ8EDDSGQ3');
 
-    document.addEventListener('click', function (event) {
-      var resumeLink = event.target.closest('a[data-resume-download]');
-      if (!resumeLink) return;
-
-      gtag('event', 'resume_download', {
-        file_name: 'resume.pdf',
-        file_extension: 'pdf',
-        link_url: resumeLink.href
-      });
-    });
 </script>
 
 <script type="application/ld+json">
@@ -34,11 +24,6 @@
   },
   "description": "Engineering Manager at Paytm with 12 years of software engineering experience.",
   "image": "{{ site.url }}/bio.jpg",
-  "subjectOf": {
-    "@type": "DigitalDocument",
-    "name": "Resume of Manish Punia",
-    "url": "{{ site.url }}/resume.pdf"
-  },
   "sameAs": [
     "https://www.linkedin.com/in/manish-punia/",
     "https://twitter.com/man_punia",

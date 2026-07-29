@@ -129,9 +129,6 @@ author:
     - title: LinkedIn
       url: https://www.linkedin.com/in/manish-punia/
       icon: fab fa-linkedin
-    - title: Resume
-      url: /resume.pdf
-      icon: fas fa-file-pdf
     - title: Twitter
       url: https://twitter.com/man_punia
       icon: fab fa-twitter-square
@@ -147,9 +144,6 @@ footer_links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/manish-punia/
     icon: fab fa-linkedin
-  - title: Resume
-    url: /resume.pdf
-    icon: fas fa-file-pdf
   - title: Twitter
     url: https://twitter.com/man_punia
     icon: fab fa-twitter-square

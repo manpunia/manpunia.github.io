@@ -7,7 +7,6 @@ This site is the canonical personal website for Manish Punia. It contains his pr
 ## Primary Pages
 
 - Professional profile: https://manishpunia.com/profile/
-- Resume: https://manishpunia.com/resume.pdf
 - About: https://manishpunia.com/about/
 - Posts: https://manishpunia.com/posts/
 - Books: https://manishpunia.com/books/
